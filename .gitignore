@@ -1,0 +1,5 @@
+*.pt
+yolov8n_openvino_model/
+venv/
+__pycache__/
+snapshot_*.jpg
